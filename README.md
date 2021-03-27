@@ -1,5 +1,5 @@
 # planetos
-old project files I don't have time to maintain. These are all functional SFOS applications. 
+old project Sailfish APPs I have not had time to maintain. These are all functional SFOS applications. 
 
 Should work on Sailfish till 3.4.x
 
