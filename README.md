@@ -5,4 +5,4 @@ Should work on Sailfish till 3.4.x
 
 These originate at https://openrepos.net/user/15631/programs
 
-Most of these apps are already contained in other repos here. These I haven't had the time yet.
+Most of these apps listed above are already contained in other repos here. The ones in this repo I haven't had the time yet.
